@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2020-06-26T09:13:17.259Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" version="13.3.4" etag="rEyXjcGOr6PF5rbx985I" type="github"><diagram id="6dhlTCpEMThEHBgTc7m2">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-06-26T09:20:40.753Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="M0hHFLJOoo7RKtRzssO5" version="13.3.4" type="github">
+  <diagram id="6dhlTCpEMThEHBgTc7m2" name="Page-1">
+    <mxGraphModel dx="2062" dy="1123" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lkD6BC0q2ozlnFbiW4Au-2" value="Integration Components" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="440" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="lkD6BC0q2ozlnFbiW4Au-3" value="JOIN Components" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="500" y="80" width="190" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="lkD6BC0q2ozlnFbiW4Au-10" value="RegisterMessages" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lkD6BC0q2ozlnFbiW4Au-4" target="lkD6BC0q2ozlnFbiW4Au-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lkD6BC0q2ozlnFbiW4Au-4" value="DSO Worker" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="304" y="340" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="lkD6BC0q2ozlnFbiW4Au-5" value="JIA DB" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="350" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lkD6BC0q2ozlnFbiW4Au-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1" source="lkD6BC0q2ozlnFbiW4Au-6" target="lkD6BC0q2ozlnFbiW4Au-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lkD6BC0q2ozlnFbiW4Au-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="lkD6BC0q2ozlnFbiW4Au-6" target="lkD6BC0q2ozlnFbiW4Au-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lkD6BC0q2ozlnFbiW4Au-6" value="DSO Web" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="304" y="170" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="lkD6BC0q2ozlnFbiW4Au-12" value="Retry/ForceLoad" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lkD6BC0q2ozlnFbiW4Au-9" target="lkD6BC0q2ozlnFbiW4Au-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lkD6BC0q2ozlnFbiW4Au-9" value="JIA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lkD6BC0q2ozlnFbiW4Au-13" value="REST API" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="530" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
