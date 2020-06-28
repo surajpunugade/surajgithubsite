@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-28T22:01:35.585Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="s-HzKuH_iSAJIg2EoTqr" version="13.3.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-06-28T22:09:39.812Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="iRoy8BdBCCE_8gk7Ouxm" version="13.3.5" type="github" pages="5">
   <diagram id="QrN6473zxUMxw3CQgRU8" name="EDI Connect">
     <mxGraphModel dx="2062" dy="1123" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -80,7 +80,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="JKC EDI" id="CzvlaI-oqliHvZ_r6fuE">
-    <mxGraphModel dx="2062" dy="1123" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="1074" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="62bLSFfTvjHOUhnpeLfl-0" />
         <mxCell id="62bLSFfTvjHOUhnpeLfl-1" parent="62bLSFfTvjHOUhnpeLfl-0" />
@@ -136,7 +136,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Subscription" id="pXRepE4Izv9E-vzfChsZ">
-    <mxGraphModel dx="2062" dy="1123" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="1074" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="VnqeEVBzK70pY7q3TTk9-0" />
         <mxCell id="VnqeEVBzK70pY7q3TTk9-1" parent="VnqeEVBzK70pY7q3TTk9-0" />
@@ -170,6 +170,19 @@
         <mxCell id="3VMTQl4SH_OyyLVhgLjZ-4" value="Subscription" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="VnqeEVBzK70pY7q3TTk9-1" source="3VMTQl4SH_OyyLVhgLjZ-2" target="VnqeEVBzK70pY7q3TTk9-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Ziv0nZSQJf6Ew0OZB0Qt-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="VnqeEVBzK70pY7q3TTk9-1" source="3VMTQl4SH_OyyLVhgLjZ-2" target="VnqeEVBzK70pY7q3TTk9-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="398" y="180" />
+              <mxPoint x="78" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ziv0nZSQJf6Ew0OZB0Qt-1" value="&lt;span style=&quot;font-size: 12px&quot;&gt;Collect Details&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="Ziv0nZSQJf6Ew0OZB0Qt-0">
+          <mxGeometry x="-0.3591" y="-4" relative="1" as="geometry">
+            <mxPoint x="-33" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="3VMTQl4SH_OyyLVhgLjZ-2" value="Event Processor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VnqeEVBzK70pY7q3TTk9-1">
           <mxGeometry x="348" y="85" width="100" height="60" as="geometry" />
         </mxCell>
@@ -186,7 +199,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Notification" id="GvRgAsIxLH-ULMHe7Az3">
-    <mxGraphModel dx="2062" dy="1123" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="1074" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="IPk2DBSrWz_cAf8GTWHE-0" />
         <mxCell id="IPk2DBSrWz_cAf8GTWHE-1" parent="IPk2DBSrWz_cAf8GTWHE-0" />
