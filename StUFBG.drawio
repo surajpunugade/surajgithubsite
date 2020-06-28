@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-06-28T22:09:39.812Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="iRoy8BdBCCE_8gk7Ouxm" version="13.3.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-06-28T22:14:39.257Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="0OidQ_tKYBomZNoiJUml" version="13.3.5" type="github" pages="5">
   <diagram id="QrN6473zxUMxw3CQgRU8" name="EDI Connect">
-    <mxGraphModel dx="2062" dy="1123" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="1074" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,7 +28,7 @@
         <mxCell id="CrSzEpdrIbBRcSEZjrzz-14" value="Search&lt;br&gt;Link" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CrSzEpdrIbBRcSEZjrzz-6" target="CrSzEpdrIbBRcSEZjrzz-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CrSzEpdrIbBRcSEZjrzz-6" value="Usser" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="CrSzEpdrIbBRcSEZjrzz-6" value="User" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="90" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CrSzEpdrIbBRcSEZjrzz-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="CrSzEpdrIbBRcSEZjrzz-2">
@@ -108,7 +108,7 @@
         <mxCell id="62bLSFfTvjHOUhnpeLfl-19" value="Search" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="62bLSFfTvjHOUhnpeLfl-1" source="62bLSFfTvjHOUhnpeLfl-20" target="62bLSFfTvjHOUhnpeLfl-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="62bLSFfTvjHOUhnpeLfl-20" value="Usser" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="62bLSFfTvjHOUhnpeLfl-1">
+        <mxCell id="62bLSFfTvjHOUhnpeLfl-20" value="User" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="62bLSFfTvjHOUhnpeLfl-1">
           <mxGeometry x="40" y="100" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="62bLSFfTvjHOUhnpeLfl-21" value="Query" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="62bLSFfTvjHOUhnpeLfl-1" source="62bLSFfTvjHOUhnpeLfl-22" target="62bLSFfTvjHOUhnpeLfl-24">
